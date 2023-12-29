@@ -1,0 +1,7 @@
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\Chuong01\bin\Debug\Chuong01.exe.config
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\Chuong01\bin\Debug\Chuong01.exe
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\Chuong01\bin\Debug\Chuong01.pdb
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\Chuong01\obj\Debug\Chuong01.csproj.AssemblyReference.cache
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\Chuong01\obj\Debug\Chuong01.csproj.CoreCompileInputs.cache
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\Chuong01\obj\Debug\Chuong01.exe
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\Chuong01\obj\Debug\Chuong01.pdb

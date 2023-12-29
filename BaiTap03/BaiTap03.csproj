@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{011F9DCD-A0C3-44F9-9F70-7BEB51AD947F}</ProjectGuid>
+    <ProjectGuid>{4F579F74-89BB-4555-9937-6EA6D59679E9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Chuong01</RootNamespace>
-    <AssemblyName>Chuong01</AssemblyName>
+    <RootNamespace>BaiTap03</RootNamespace>
+    <AssemblyName>BaiTap03</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PhanSo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
