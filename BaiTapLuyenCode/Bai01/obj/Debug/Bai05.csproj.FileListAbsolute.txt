@@ -1,0 +1,7 @@
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\BaiTapLuyenCode\Bai01\bin\Debug\Bai01.exe.config
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\BaiTapLuyenCode\Bai01\bin\Debug\Bai01.exe
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\BaiTapLuyenCode\Bai01\bin\Debug\Bai01.pdb
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\BaiTapLuyenCode\Bai01\obj\Debug\Bai05.csproj.AssemblyReference.cache
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\BaiTapLuyenCode\Bai01\obj\Debug\Bai05.csproj.CoreCompileInputs.cache
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\BaiTapLuyenCode\Bai01\obj\Debug\Bai01.exe
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\BaiTapLuyenCode\Bai01\obj\Debug\Bai01.pdb
