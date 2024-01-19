@@ -1,0 +1,7 @@
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\DanhSachLienKetDon\DanhSachLienKetDon\bin\Debug\DanhSachLienKetDon.exe.config
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\DanhSachLienKetDon\DanhSachLienKetDon\bin\Debug\DanhSachLienKetDon.exe
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\DanhSachLienKetDon\DanhSachLienKetDon\bin\Debug\DanhSachLienKetDon.pdb
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\DanhSachLienKetDon\DanhSachLienKetDon\obj\Debug\DanhSachLienKetDon.csproj.AssemblyReference.cache
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\DanhSachLienKetDon\DanhSachLienKetDon\obj\Debug\DanhSachLienKetDon.csproj.CoreCompileInputs.cache
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\DanhSachLienKetDon\DanhSachLienKetDon\obj\Debug\DanhSachLienKetDon.exe
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\DanhSachLienKetDon\DanhSachLienKetDon\obj\Debug\DanhSachLienKetDon.pdb
