@@ -1,0 +1,7 @@
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\CauTrucCay\CauTrucCay\bin\Debug\CauTrucCay.exe.config
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\CauTrucCay\CauTrucCay\bin\Debug\CauTrucCay.exe
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\CauTrucCay\CauTrucCay\bin\Debug\CauTrucCay.pdb
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\CauTrucCay\CauTrucCay\obj\Debug\CauTrucCay.csproj.AssemblyReference.cache
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\CauTrucCay\CauTrucCay\obj\Debug\CauTrucCay.csproj.CoreCompileInputs.cache
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\CauTrucCay\CauTrucCay\obj\Debug\CauTrucCay.exe
+D:\Trần Nguyễn Thành Đạt LTHDT\LTHDT\CauTrucCay\CauTrucCay\obj\Debug\CauTrucCay.pdb
